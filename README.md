@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GiorgiaCaruana
-- 👀 I’m interested in diagnostic stewardship and antimicrobial susceptibility testing and resistance
+- 👀 I’m interested in diagnostic stewardship and rapid antimicrobial susceptibility testing and resistance
 - 🌱 I’m currently learning something more about bioinformatics and genomics
 - 💞️ I’m looking to collaborate on rapid antimicrobial susceptibility testing methods
 - 📫 How to reach me: Giorgia.Caruana@chuv.ch
